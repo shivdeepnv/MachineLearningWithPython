@@ -18,7 +18,7 @@ Download the daily stock price of four or five randomly selected stocks from ver
 
 - Find out the outlier events (date and the gain or loss) for each of these stocks based on box plot analysis.
 - Find out the correlation of daily gains of each of these stocks.
-- Draw the scatter plots and the heatmap.
+- Draw the scatter plots and the heatmap. 
 
 ### 2. Analytical Variables
 
