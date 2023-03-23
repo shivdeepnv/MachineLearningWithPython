@@ -20,8 +20,7 @@ Download the daily stock price of four or five randomly selected stocks from ver
 - Find out the correlation of daily gains of each of these stocks.
 - Draw the scatter plots and the heatmap. 
 
-![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)
-(https://colab.research.google.com/drive/1R3G4d0iSQ5_rd2SW8gPdoymevIFRDHv3?usp=share_link)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R3G4d0iSQ5_rd2SW8gPdoymevIFRDHv3?usp=share_link)
 
 ### 2. Analytical Variables
 
