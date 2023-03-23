@@ -14,6 +14,12 @@ Notebooks and datasets for Session 2.
 
 #### 1.1 Corelation Analysis (Exercise Solution)
 
+Download the daily stock price of four or five randomly selected stocks from very different sectors or industries for the last 6 months. (Each of these stocks should have been taken from different industry sectors.)
+
+- Find out the outlier events (date and the gain or loss) for each of these stocks based on box plot analysis.
+- Find out the correlation of daily gains of each of these stocks.
+- Draw the scatter plots and the heatmap.
+
 ### 2. Analytical Variables
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLCourseV1/blob/main/Session_2/Analytical_Variables.ipynb)
