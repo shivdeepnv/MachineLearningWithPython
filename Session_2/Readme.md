@@ -12,6 +12,10 @@ Notebooks and datasets for Session 2.
 - Explore different variable types in analytics or statistics in the following notebook.
 - How to visualize the distribution of different types of variables.
 
+#### 1.1 Corelation Analysis (Exercise Solution)
+
 ### 2. Analytical Variables
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/MLCourseV1/blob/main/Session_2/Analytical_Variables.ipynb)
+
+
